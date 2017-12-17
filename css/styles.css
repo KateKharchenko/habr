@@ -38,7 +38,7 @@ html, body {
 }
 
 
-.post {
+.post:not(:last-child) {
 	border-bottom: 1px solid #e2e8e9;
 }
 
