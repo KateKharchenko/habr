@@ -41,3 +41,11 @@ html, body {
 .post {
 	border-bottom: 1px solid #e2e8e9;
 }
+.post__icon{
+	display: inline-block;
+	margin: right;
+}
+img{
+	height: 15px;
+	margin-right:5px;
+}
